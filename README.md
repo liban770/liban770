@@ -2,11 +2,11 @@
 
  Software Engineer · Full-Stack Developer · AI & Emerging Technologies
 
-I’m a Software Engineer focused on designing and building **scalable, practical, and user-centered software systems.
+I’m a Software Engineer focused on designing and building scalable, practical, and user-centered software systems.
 
 My work spans **full-stack development, backend engineering, databases, SaaS platforms, system design, and AI-powered applications**. I enjoy turning real-world problems into reliable software and continuously improving the way I design, build, and ship products.
 
----
+
 
 ## 🧠 Engineering Focus
 
@@ -24,13 +24,13 @@ My work spans **full-stack development, backend engineering, databases, SaaS pla
 
 **Languages**
 
-`Python` `JavaScript` `TypeScript` `PHP` `SQL` `Go`
+`Python` `JavaScript` `Type Script` `PHP` `SQL` `Go`
 
-**Frontend**
+**Fronted**
 
 `React` `Next.js` `Tailwind CSS` `HTML` `CSS`
 
-**Backend**
+**Back-end**
 
 `Django` `Node.js` `Express` `PHP`
 
@@ -44,9 +44,9 @@ My work spans **full-stack development, backend engineering, databases, SaaS pla
 
 **Currently Exploring**
 
-`AI Engineering` · `Generative AI` · `Cloud & DevOps` · `System Design` · `Go`
+`AI Engineering` · `Generative AI` · `Cloud & Dev Ops` · `System Design` · `Go`
 
----
+
 
 ## 🚀 Selected Projects
 
@@ -58,15 +58,14 @@ A university-focused platform for managing the complete thesis workflow, includi
 
 **Stack:** Django · Python · JavaScript · Tailwind CSS · SQLite
 
----
 
-### Employee Management SaaS
+
+### Employee Management Saas
 
 A modern employee management platform designed around real organizational workflows, including employee records, roles, departments, attendance, leave, and administrative operations.
 
 **Stack:** PHP · MySQL · Tailwind CSS
 
----
 
 ### Developer Portfolio
 
