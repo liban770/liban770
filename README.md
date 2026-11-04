@@ -1,113 +1,162 @@
- I'm Ahmed Liban 
+<div align="center">
 
- Software Engineer · Full-Stack Developer · AI & Emerging Technologies
+# Ahmed Liban Mohamed
 
-I’m a Software Engineer focused on designing and building scalable, practical, and user-centered software systems.
+### Software Engineer | Full-Stack Developer | AI Enthusiast
 
-My work spans **full-stack development, backend engineering, databases, SaaS platforms, system design, and AI-powered applications**. I enjoy turning real-world problems into reliable software and continuously improving the way I design, build, and ship products.
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=650&lines=Building+Solutions+Through+Code;Full-Stack+Web+Developer;Exploring+Artificial+Intelligence;Always+Learning.+Always+Building." alt="Typing SVG" />
 
+<p>
+  <a href="https://github.com/liban770">
+    <img src="https://komarev.com/ghpvc/?username=liban770&label=PROFILE+VIEWS&color=00D9FF&style=for-the-badge" alt="Profile Views"/>
+  </a>
+  <a href="https://github.com/liban770?tab=followers">
+    <img src="https://img.shields.io/github/followers/liban770?label=FOLLOWERS&style=for-the-badge&color=00D9FF" alt="Followers"/>
+  </a>
+</p>
 
-
-## 🧠 Engineering Focus
-
-* **Software Architecture** — designing maintainable and scalable systems
-* **Backend Engineering** — APIs, business logic, authentication, and data-intensive applications
-* **Full-Stack Development** — building complete products from database to user interface
-* **Database Engineering** — relational databases, data modeling, queries, and optimization
-* **SaaS Development** — multi-user platforms, role-based systems, and business workflows
-* **AI Engineering** — exploring AI-powered applications and intelligent software systems
-* **System Design** — thinking about scalability, reliability, security, and maintainability
-
----
-
-## 🛠️ Technology
-
-**Languages**
-
-`Python` `JavaScript` `Type Script` `PHP` `SQL` `Go`
-
-**Fronted**
-
-`React` `Next.js` `Tailwind CSS` `HTML` `CSS`
-
-**Back-end**
-
-`Django` `Node.js` `Express` `PHP`
-
-**Databases**
-
-`PostgreSQL` `MySQL` `SQLite` `Supabase`
-
-**Tools & Platforms**
-
-`Git` `GitHub` `VS Code` `Docker` `Vercel` `Linux`
-
-**Currently Exploring**
-
-`AI Engineering` · `Generative AI` · `Cloud & Dev Ops` · `System Design` · `Go`
-
-
-
-## 🚀 Selected Projects
-
-### ThesisTrack
-
-**Thesis Management System**
-
-A university-focused platform for managing the complete thesis workflow, including project groups, supervisors, proposals, chapters, deadlines, feedback, attendance, notifications, and progress tracking.
-
-**Stack:** Django · Python · JavaScript · Tailwind CSS · SQLite
-
-
-
-### Employee Management Saas
-
-A modern employee management platform designed around real organizational workflows, including employee records, roles, departments, attendance, leave, and administrative operations.
-
-**Stack:** PHP · MySQL · Tailwind CSS
-
-
-### Developer Portfolio
-
-A modern personal portfolio designed to showcase my engineering work, projects, experience, certificates, and technical capabilities.
-
-**Stack:** React · Vite · Supabase · Tailwind CSS
+</div>
 
 ---
 
-## 🎓 Background
+## 👨‍💻 About Me
 
-**BSc Software Engineering**
-Abaarso Tech University
+I'm **Ahmed Liban Mohamed**, a Software Engineering graduate passionate about building practical, scalable, and user-centered software solutions.
 
-Focused on software development, databases, system design, algorithms, and building practical software systems.
+I enjoy transforming ideas into real-world applications, exploring emerging technologies, and continuously improving my engineering skills.
 
----
+* 🎓 BSc in Software Engineering — Abaarso Tech University.
+* 💻 Interested in Full-Stack Development and Software Architecture.
+* 🤖 Exploring Artificial Intelligence and Generative AI.
+* 🌱 Currently expanding my knowledge of modern development technologies.
+* 🚀 Building projects that solve real-world problems.
+* 📍 Based in Hargeisa, Somaliland.
 
-## 📈 Engineering Philosophy
-
-> **Build software that solves real problems, not software that only looks impressive.**
-
-I care about:
-
-* Clean and maintainable code
-* Strong architecture and data modeling
-* Security and reliability
-* Good developer experience
-* Scalable system design
-* Continuous learning
-* Turning ideas into production-ready software
+> My goal is to build technology that creates meaningful impact.
 
 ---
 
- Let's Connect
+## ⚡ Tech Stack & Tools
 
-I'm interested in collaborating on **software engineering, SaaS, AI, open-source, and technology projects**.
+### Languages
 
-* 💼 LinkedIn: [Ahmed Liban](https://www.linkedin.com/)
-* 🌐 Portfolio: [Visit my portfolio](https://profile-34j9zis0a-ahmed-liban-mohameds-projects.vercel.app/)
-* 💻 GitHub: [@liban770](https://github.com/liban770)
+<p>
+<img src="https://skillicons.dev/icons?i=python,js,php,html,css" />
+</p>
+
+### Frameworks & Libraries
+
+<p>
+<img src="https://skillicons.dev/icons?i=django,react,tailwind,bootstrap" />
+</p>
+
+### Databases & Backend
+
+<p>
+<img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,supabase" />
+</p>
+
+### Tools & Platforms
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,linux,vercel" />
+</p>
 
 ---
 
-### ⚡ Keep Building. Keep Learning. Keep Shipping.
+## 🚀 Featured Projects
+
+### 01. LogiTrack
+
+A logistics and delivery management application designed to manage delivery operations and improve tracking workflows.
+
+**Tech:** Web Development
+
+🔗 [Live Demo](https://logi-track-logistics-delivery-manag.vercel.app/)
+
+### 02. Support Portal
+
+A web-based support platform designed to organize and manage support-related workflows.
+
+🔗 [Live Demo](https://support-portal-ruby.vercel.app/)
+
+### 03. ThesisTrack
+
+A university thesis management system that streamlines student submissions, supervisor assignments, academic progress, and project monitoring.
+
+**Tech:** Django, SQLite, Tailwind CSS, JavaScript.
+
+### 04. TechClub
+
+A technology community platform designed to connect technology enthusiasts, learners, and professionals in Somaliland.
+
+**Tech:** Django, PostgreSQL, Tailwind CSS.
+
+---
+
+## 📊 GitHub Statistics
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=liban770&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=liban770&layout=compact&theme=tokyonight&hide_border=true" />
+
+<br/>
+
+<img width="80%" src="https://streak-stats.demolab.com?user=liban770&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
+
+## 🐍 Contribution Activity
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/liban770/liban770/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake" />
+
+</div>
+
+---
+
+## 🎯 Current Focus
+
+* Building advanced full-stack applications.
+* Strengthening backend engineering and database design.
+* Learning Artificial Intelligence and Generative AI.
+* Exploring Cloud Computing and DevOps.
+* Improving software architecture and system design.
+* Contributing to meaningful technology communities.
+
+---
+
+## 🤝 Let's Connect
+
+<div align="center">
+
+<a href="https://github.com/liban770">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/ahmed-liban-mohamed/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:ahmedlibanmohamed89@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### "Code. Create. Innovate. Repeat."
+
+**Thanks for visiting my profile!**
+
+⭐ Feel free to explore my repositories and connect with me.
+
+</div>
