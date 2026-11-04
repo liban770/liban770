@@ -126,15 +126,7 @@ A technology community platform connecting learners, developers, and technology 
 
 ---
 
-## `04` — GitHub Analytics
 
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=liban770&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true" />
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=liban770&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
-
-<br/><br/>
 
 <img width="75%" src="https://streak-stats.demolab.com?user=liban770&theme=tokyonight&hide_border=true" />
 
