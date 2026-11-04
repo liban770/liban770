@@ -139,7 +139,7 @@ A technology community platform designed to connect technology enthusiasts, lear
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<a href="https://www.linkedin.com/in/ahmed-liban-mohamed/">
+<a href="https://www.linkedin.com/in/ahmed-iiban-mohamed-1448b6283/">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
