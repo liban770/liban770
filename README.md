@@ -90,6 +90,8 @@ A university thesis management system that streamlines student submissions, supe
 
 A technology community platform designed to connect technology enthusiasts, learners, and professionals in Somaliland.
 
+🔗 [Live Demo](https://techclub-platform.vercel.app/)
+
 **Tech:** Django, PostgreSQL, Tailwind CSS.
 
 ---
